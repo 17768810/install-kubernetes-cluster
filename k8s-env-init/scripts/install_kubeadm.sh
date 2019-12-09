@@ -1,4 +1,4 @@
-K8S_VERSION=${K8S_VERSION-"1.16.0"}
+K8S_VERSION=${K8S_VERSION-"1.16.2"}
 
 cat <<EOF > /etc/yum.repos.d/kubernetes.repo
 [kubernetes]

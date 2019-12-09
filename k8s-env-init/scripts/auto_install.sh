@@ -1,5 +1,5 @@
 export DOCKER_VERSION='-18.06.2.ce'
-export K8S_VERSION='1.16.0'
+export K8S_VERSION='1.16.2'
 
 CURRENT_DIR=$(cd $(dirname $0); pwd)
 

@@ -1,5 +1,5 @@
 # hostname
-hostnamectl set-hostname 10.1.51.3
+hostnamectl set-hostname 10.0.1.11
 
 # 查看系统版本是否一致
 cat /proc/version
